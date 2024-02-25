@@ -1,0 +1,13 @@
+.text-bg-danger{
+    animation: horizontal-shaking 0.3s;
+    animation-iteration-count: 2;
+}
+
+
+@keyframes horizontal-shaking {
+    0% { transform: translateX(0) }
+    25% { transform: translateX(5px) }
+    50% { transform: translateX(-5px) }
+    75% { transform: translateX(5px) }
+    100% { transform: translateX(0) }
+  }
