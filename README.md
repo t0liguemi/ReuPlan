@@ -9,4 +9,7 @@ https://www.youtube.com/watch?v=p8vgaGH6w5A
 remember to add the .env with SUPER_SECRET_KEY and PASS_KEY in the backend
 as well as .env with your google api key
 
+EDIT: I am currently porting this to django for deployment, you can see the other version in my repos  :)
+
+
 Hugs, Miguel
